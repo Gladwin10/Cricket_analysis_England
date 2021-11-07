@@ -9,7 +9,7 @@ Bat weight can be a reason why David Warner who typically uses heavier bats fail
 
 Sachin Tendulkar and shivnarine chanderpaul are the anomalies as they were able to score well in swinging conditions with heavier bats.
 
-# How this study can be improved:
+## How this study can be improved:
 
 There are also other factors like Batter's current form, familiarity with conditions, batting positions, & movement on a particular day impacting the total runs scored. These factors can be included to enhance this test. Also, data of lot more players could be added to validate this. I have tried to get the data of the players that use heavier bats along with some other established players that use light or medium weighed bats.
 
