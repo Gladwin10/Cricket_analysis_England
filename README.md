@@ -1,7 +1,7 @@
 
-# Is it difficult to play in England with Heavier bats for overseas players in England (Test cricket)?
+# Hypothesis: Is it difficult to play with heavier bats in England?
 
-## *Relationship between Bat weights (lbs.) and Runs Per Innings (RPI) of Overseas players in England*.
+## *Relationship between Bat weights (lbs.) and Runs Per Innings (RPI) of Overseas players in England (test cricket)*.
 
 Runs Per Innings (RPI) is derived by dividing the total runs by the number of innings (doesn't consider Not Outs). 
 
